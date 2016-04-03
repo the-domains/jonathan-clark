@@ -1,0 +1,28 @@
+name: Jonathan Clark
+favicon: null
+layout_spectrum: 0.8747737824451178
+typography_spectrum: 0.22870275168679655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6787827624939382
+  lightness: 0.3215907523408532
+  saturation: 0.2557473930064589
+  rhythmicContrast: 0.03208035696297884
+purpose: []
